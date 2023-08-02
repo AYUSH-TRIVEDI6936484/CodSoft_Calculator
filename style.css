@@ -11,10 +11,10 @@ body {
 
 .wrapper {
     background: #fff;
-    margin: 65px auto;
-    border-radius: 15px;
+    margin: 60px auto;
+    border-radius: 20px;
     width: 350px;
-    height: 480px;
+    height: 450px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.1);
 }
 
@@ -28,13 +28,13 @@ body {
     font-weight: 600;
     padding: 10px;
     text-align: right;
-    background: tomato;
+    background: greenyellow;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
 .buttons{
-    margin: 35px 15px;
+    margin: 35px 25px;
 }
 
 .btn{
@@ -48,4 +48,10 @@ body {
     border-radius: 50%;
     line-height: 50px;
 }
+
+.cbtn{
+    background-color: tomato;
+    color: white;
+}
+
 
